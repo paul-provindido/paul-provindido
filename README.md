@@ -74,7 +74,7 @@ Claude (Sonnet & Opus) · GitHub Copilot · Gemini AI Studio · AI MCPs (Figma, 
 | 🧱 Coming Soon | Custom Gutenberg block library | React, PHP |
 | ⚙️ Coming Soon | Plugin boilerplate starter | PHP, Composer | -->
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -84,7 +84,7 @@ Claude (Sonnet & Opus) · GitHub Copilot · Gemini AI Studio · AI MCPs (Figma, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-provindido&layout=compact&hide_border=true&title_color=21759B&langs_count=6)
 
-</div>
+</div> -->
 
 ---
 
