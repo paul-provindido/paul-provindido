@@ -11,7 +11,7 @@
 
 ## 🧩 About Me
 
-I'm a **WordPress Plugin Developer** who loves building custom, performant plugins that solve real problems. I specialize in crafting tailored WordPress solutions — from complex admin tools to modern **Gutenberg blocks** — with clean, maintainable code.
+I'm a **WordPress Plugin Developer** who loves building custom, performant plugins that solve real problems. I specialize in diagnosing complex WordPress plugin bugs and shipping new features, the harder the problem, the more I enjoy it. I don't stop until it's solved.
 
 🚀 AI has effectively made my tech stack unlimited. I focus on solving problems, not memorizing syntax
 
