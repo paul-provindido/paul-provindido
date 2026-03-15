@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahoy mateys! Paul here 👋
+# Ahoy mateys! 👋
 ### AI-Augmented Developer · WordPress Plugin Developer · PHP · Modern JavaScript
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AI-Augmented+Developer;Unlimited+Tech+Stack+via+AI;WordPress+Plugin+Developer;Gutenberg+Block+Builder;PHP+%2B+JS+Craftsman;Clean+Code+Enthusiast;)](https://git.io/typing-svg)
