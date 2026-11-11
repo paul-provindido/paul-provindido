@@ -1,21 +1,27 @@
 <div align="center">
 
 # Ahoy mateys! 👋
-### AI-Augmented Developer · WordPress Plugin Developer · PHP · Modern JavaScript
+### AI-native Developer · WordPress Plugin Developer · PHP · Modern JavaScript
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AI-Augmented+Developer;Unlimited+Tech+Stack+via+AI;WordPress+Plugin+Developer;Gutenberg+Block+Builder;PHP+%2B+JS+Craftsman;Clean+Code+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AI-native+Developer;AI+for+Debugging+%26+Code+Review;WordPress+Plugin+Developer;Gutenberg+Block+Builder;PHP+%2B+JS+Craftsman;Clean+Code+Enthusiast;)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## 🎬 VidFlow AI
+
+I built and launched **VidFlow AI**, a WordPress plugin that generates videos from prompts and images. With Pro, WooCommerce stores can turn product photos into videos and add them to their product galleries.
+
+[VidFlow AI on WordPress.org](https://wordpress.org/plugins/vidflow-ai/) · [Product site and demo](https://vidflow-ai.com/)
+
+---
+
 ## 🧩 About Me
 
-I'm a **WordPress Plugin Developer** who loves building custom, performant plugins that solve real problems. I specialize in diagnosing complex WordPress plugin bugs and shipping new features, the harder the problem, the more I enjoy it. I don't stop until it's solved.
+I build WordPress plugins in PHP and JavaScript. I enjoy tracking down complex bugs and shipping features that solve real problems.
 
-🚀 AI has effectively made my tech stack unlimited. I focus on solving problems, not memorizing syntax
-
-🔌 Professional plugin developer with hands-on experience shipping production plugins
+I worked on **Forminator** at Incsub and shipped bug fixes, improvements, and new features across **Thrive Themes** products at Awesome Motive.
 
 🧱 Gutenberg & Block Editor enthusiast: building with `@wordpress/blocks` and React
 
@@ -27,12 +33,13 @@ I'm a **WordPress Plugin Developer** who loves building custom, performant plugi
 
 ---
 
-### 🤖 AI Tools
-Claude (Sonnet & Opus) · GitHub Copilot · Gemini AI Studio · AI MCPs (Figma, GitHub, and more)
+## 🤖 How I Use AI
+
+I use AI to trace plugin bugs through the code, prototype features, and check changes against WordPress coding standards. I also built a workflow that takes a GitHub issue through a fix, code review, and regression tests before opening a pull request.
 
 ---
 
-## 🛠️ Tech Stack - *"With AI as my co-pilot, I'm no longer limited to the tools I've memorized."*
+## 🛠️ Tech Stack
 
 <div align="center">
 
